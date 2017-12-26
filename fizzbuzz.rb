@@ -3,6 +3,6 @@ def fizzbuzz(int)
     "Fizz"
   end
   elsif int % 5 == 0
-    nil
+    "Buzz"
   end
 end
